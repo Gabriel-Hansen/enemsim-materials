@@ -1,0 +1,17 @@
+{
+  "videos": {},
+  "pdfs": {
+    "18": [
+      {
+        "title": "Parte 1",
+        "url": "https://raw.githubusercontent.com/Gabriel-Hansen/enemsim-materials/master/apostilas/S2_D4_AULA_1_PARTE_1.pdf"
+      }
+    ],
+    "19": [
+      {
+        "title": "Parte 2",
+        "url": "https://raw.githubusercontent.com/Gabriel-Hansen/enemsim-materials/master/apostilas/S2_D4_AULA_1_PARTE_2.pdf"
+      }
+    ]
+  }
+}
