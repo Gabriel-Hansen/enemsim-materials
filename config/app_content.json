@@ -1,17 +1,158 @@
 {
-  "videos": {},
-  "pdfs": {
-    "18": [
-      {
-        "title": "Parte 1",
-        "url": "https://raw.githubusercontent.com/Gabriel-Hansen/enemsim-materials/master/apostilas/S2_D4_AULA_1_PARTE_1.pdf"
-      }
-    ],
-    "19": [
-      {
-        "title": "Parte 2",
-        "url": "https://raw.githubusercontent.com/Gabriel-Hansen/enemsim-materials/master/apostilas/S2_D4_AULA_1_PARTE_2.pdf"
-      }
-    ]
-  }
+    "videos": {
+        "12": [
+            "https://youtu.be/tG7osM4-_94"
+        ],
+        "13": [
+            "https://youtu.be/Dwhap2GABtw"
+        ],
+        "14": [
+            "https://youtu.be/13cUxj7xZeU"
+        ],
+        "15": [
+            "https://youtu.be/wne_1Jmm1PI"
+        ],
+        "16": [
+            "https://youtu.be/7d5grVLCGB8"
+        ],
+        "17": [
+            "https://youtu.be/xadrA_waaTM"
+        ],
+        "18": [
+            "https://youtu.be/1nJSsQG0oo0"
+        ],
+        "19": [
+            "https://youtu.be/ak-fhvxC2SA"
+        ],
+        "20": [
+            "https://youtu.be/7-bp4UbOqvo",
+            "https://youtu.be/1zqvP_RoenY"
+        ],
+        "23": [
+            "https://youtu.be/7XTUTg9akeQ"
+        ],
+        "24": [
+            "https://youtu.be/YS2yKjxQsK8"
+        ],
+        "25": [
+            "https://youtu.be/OG0LECwxXOY"
+        ],
+        "26": [
+            "https://youtu.be/H4k1uscDHyE"
+        ],
+        "27": [
+            "https://youtu.be/zZQ80jwrxl8"
+        ],
+        "28": [
+            "https://youtu.be/jDkl29XtNPs"
+        ],
+        "29": [
+            "https://youtu.be/ygcwXG4H4yU"
+        ],
+        "30": [
+            "https://youtu.be/HPK5Yvj3OJI"
+        ],
+        "31": [
+            "https://youtu.be/OZP63QMuzU0",
+            "https://youtu.be/zIy2U7ADejQ"
+        ],
+        "34": [
+            "https://youtu.be/KpcnfWOG44U"
+        ],
+        "35": [
+            "https://youtu.be/_3jMqLnsUHQ"
+        ],
+        "36": [
+            "https://youtu.be/MraA-NAHoyc"
+        ],
+        "37": [
+            "https://youtu.be/mnMQt3l7RTA"
+        ],
+        "38": [
+            "https://youtu.be/LY6SKeqpLqI"
+        ],
+        "39": [
+            "https://youtu.be/gEN0ClVvWc0"
+        ],
+        "40": [
+            "https://youtu.be/AjVt6fN2TbY"
+        ],
+        "41": [
+            "https://youtu.be/mikf85JJFM0"
+        ],
+        "42": [
+            "https://youtu.be/KYkh2mCGaHE",
+            "https://youtu.be/1UQCVIp8RDE"
+        ],
+        "45": [
+            "https://youtu.be/ZKGDIcLx6yA"
+        ],
+        "46": [
+            "https://youtu.be/Z6Nzn6t4rq8"
+        ],
+        "47": [
+            "https://youtu.be/r6RbMB6BkOc"
+        ],
+        "48": [
+            "https://youtu.be/YBYbiYFnCq4"
+        ],
+        "49": [
+            "https://youtu.be/3Jzdmso8Ui4"
+        ],
+        "50": [
+            "https://youtu.be/4YTU5EMH7N4"
+        ],
+        "51": [
+            "https://youtu.be/vMzf0ylLDf4"
+        ],
+        "52": [
+            "https://youtu.be/_6A3Uf9ZZ7I"
+        ],
+        "53": [
+            "https://youtu.be/ZnUmoMvBvI8",
+            "https://youtu.be/WMxwr8L31g4"
+        ],
+        "56": [
+            "https://youtu.be/HJ4jPP72nJM"
+        ],
+        "57": [
+            "https://youtu.be/nHQZJNaCwYs"
+        ],
+        "58": [
+            "https://youtu.be/wIoIlCZa7Pw"
+        ],
+        "59": [
+            "https://youtu.be/TUonS8JzoGs"
+        ],
+        "60": [
+            "https://youtu.be/10nPbXhbmmY"
+        ],
+        "61": [
+            "https://youtu.be/GN0MYUKH3HU"
+        ],
+        "62": [
+            "https://youtu.be/vK1U4No6JWs"
+        ],
+        "63": [
+            "https://youtu.be/6rNqCU0c9ns"
+        ],
+        "64": [
+            "https://youtu.be/zNSESTba_6M",
+            "https://youtu.be/DH4a6n4td_Q"
+        ]
+    },
+    "pdfs": {
+        "18": [
+            {
+                "title": "Parte 1",
+                "url": "https://raw.githubusercontent.com/Gabriel-Hansen/enemsim-materials/master/apostilas/S2_D4_AULA_1_PARTE_1.pdf"
+            }
+        ],
+        "19": [
+            {
+                "title": "Parte 2",
+                "url": "https://raw.githubusercontent.com/Gabriel-Hansen/enemsim-materials/master/apostilas/S2_D4_AULA_1_PARTE_2.pdf"
+            }
+        ]
+    }
 }
